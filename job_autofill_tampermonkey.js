@@ -25,6 +25,8 @@
       Although this script doesn't catch every input field, it autofills a considerable amount!
 
       Enjoy!
+      
+      Note: Replaced $ with window.jQuery as Tampermonkey complains about jQuery not being set
 
 */
 
