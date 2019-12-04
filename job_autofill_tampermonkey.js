@@ -34,7 +34,7 @@
     if (typeof window.jQuery === 'undefined') {
         var jQueryEl = document.createElement('script');
         jQueryEl.src = 'https://code.jquery.com/jquery-3.4.1.slim.js';
-        document.head.appendChild(window.jQueryEl);
+        document.head.appendChild(jQueryEl);
     }
 
     /* ------------------------------------------------- Enter your details here -------------------------------------------------------*/
